@@ -1,8 +1,6 @@
 Javascript Tetris
 =================
 
-[skip ci]
-
 * Sean B. has edited this.
 
 Hello World! ;)
