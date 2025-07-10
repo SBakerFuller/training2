@@ -1,6 +1,8 @@
 Javascript Tetris
 =================
 
+* Sean B. has edited this.
+
 Hello World! ;)
 
 An HTML5 Tetris Game
