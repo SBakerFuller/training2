@@ -1,7 +1,7 @@
 Javascript Tetris
 =================
 
-* Sean B. has edited this... and then edited it again
+* Sean B. has edited this... and then edited it again. And again
 
 Hello World! ;)
 
